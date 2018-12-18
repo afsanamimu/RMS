@@ -41,8 +41,7 @@ Now here is your software Enjoy.
 		--Usage:-- 
 	------------------------
 Here you need to know about the use of the software. To know to go through the user manual or the video of the software. Links are below: 
-User manual: https://drive.google.com/open?id=1xAbI5QwDhaug4CZWf-0moZqOsBRaNU26
-Video of User Manual: https://youtu.be/q0eXl6N0e0A
+Video of User Manual: https://youtu.be/oe4EVdgtQOk
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 		--System specification:-- 
@@ -60,8 +59,8 @@ GCC/UGC/UCC Compiler
 		--Contributions:--  
 	--------------------------------
 This project is done by me:
-MD. Monirujjaman Sarker
-Varsity ID: 171-35-2003
+Afsana Mimi
+Varsity ID: 171-35-1834
 Department of Software Engineering
 Daffodil International University
 
